@@ -1,14 +1,10 @@
 FirstModification
 <<<<<<< HEAD
-<<<<<<< HEAD
 SecondModification
 3rd line
 
 TEST
 TEST2
-=======
-SecondModification
->>>>>>> parent of b7e0490... 3rd line
 =======
 SecondModification
 >>>>>>> parent of b7e0490... 3rd line
